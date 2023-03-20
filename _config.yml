@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Pagina de Juan Raul Mellado Garcia
 description: Pagina usada para la asignatura Herramientas y Métodos de la Ingenieria del Software de 3º
